@@ -97,7 +97,7 @@ Windows 10/11 Official Software and Program Resource History
 - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
 
 **Cursor Form Internet:**
-- Numix Cursors (https://www.deviantart.com/alexgal23/art/Numix-Cursors-631491782/)
+- [Numix Cursors](https://www.deviantart.com/alexgal23/art/Numix-Cursors-631491782/)
 
 ## All Used Resources
 **Program Used:**
