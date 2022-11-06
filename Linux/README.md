@@ -16,7 +16,7 @@ Program From Software Package:
 - Oracle VM VirtualBox (apt package `virtualbox`)
 
 Font From Internet:
-- JetBrains Mono (https://www.jetbrains.com/lp/mono/)
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 All Used Resource
 - `Empty`
