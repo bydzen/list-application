@@ -1,4 +1,4 @@
-Windows 10/11 Official Software and Program Resource History
+Windows Official Software and Program Resource History
 =======================
 ## All Resource
 **Program From Internet:**
