@@ -1,5 +1,5 @@
 Windows Official Software and Program Resource History
-=======================
+======================================================
 ## All Resource
 **Program From Internet:**
 - [4K Tokkit](https://www.4kdownload.com/products/tokkit/17)
@@ -47,6 +47,7 @@ Windows Official Software and Program Resource History
 - [Nicepage](https://nicepage.com/)
 - [Nmap](https://nmap.org/download)
 - [Node.js](https://nodejs.org/)
+- [Notepad++](https://notepad-plus-plus.org/downloads/)
 - [OBS Studio](https://obsproject.com/)
 - [OpenShot Video Editor](https://www.openshot.org/)
 - [Oracle VM VirtualBox](https://www.virtualbox.org/)
@@ -75,12 +76,12 @@ Windows Official Software and Program Resource History
 - [XAMPP](https://www.apachefriends.org/)
 - [Zoom](https://zoom.us/)
 
-**Program From Microsoft Store:**
+**Program From Software Package:**
 - BeWidgets
 - Lenovo Commercial Vantage
 - Lenovo Vantage
 - Microsoft Sticky Notes
-- Microsoft To Do: List, Tasks & Reminders
+- Microsoft To Do
 - Office 365
 - SafeInCloud Password Manager
 - Spotify
@@ -98,28 +99,5 @@ Windows Official Software and Program Resource History
 
 **Cursor Form Internet:**
 - [Numix Cursors](https://www.deviantart.com/alexgal23/art/Numix-Cursors-631491782/)
-
-## All Used Resources
-**Program Used:**
-- [7-Zip](https://www.7-zip.org/)
-- [Cloudflare WARP](https://1.1.1.1/)
-- [Composer](https://getcomposer.org/)
-- [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
-- [Git](https://git-scm.com/)
-- [Google Chrome](https://www.google.com/chrome/)
-- [KDE Connect](https://kdeconnect.kde.org/)
-- [Microsoft Visual C++ 2015-2022 Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist)
-- [Node.js](https://nodejs.org/)
-- [OpenShot Video Editor](https://www.openshot.org/)
-- [Oracle VM VirtualBox](https://www.virtualbox.org/)
-- [PuTTY](https://www.putty.org/)
-- [Python](https://www.python.org/)
-- [QOwnNotes](https://www.qownnotes.org/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [WinSCP](https://winscp.net/)
-- [XAMPP](https://www.apachefriends.org/)
-
-**Font Used:**
-- [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 That's it.
