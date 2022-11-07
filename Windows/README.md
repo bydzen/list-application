@@ -42,6 +42,7 @@ Windows Official Software and Program Resource History
 - [Mendeley Reference Manager](https://www.mendeley.com/download-reference-manager/windows)
 - [Microsoft Visual C++ 2015-2022 Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist)
 - [Min Browser](https://minbrowser.org/)
+- [Multipass](https://multipass.run/)
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 - [Nessus](https://www.tenable.com/downloads/nessus)
 - [Nicepage](https://nicepage.com/)
