@@ -1,7 +1,7 @@
 Linux Official Software and Program Resource History
-========================
+====================================================
 ## All Resource
-Program From Internet:
+**Program From Internet:**
 - [1Password](https://1password.com/downloads/linux/)
 - [7zip](https://www.7-zip.org/download.html)
 - [Cloudflare WARP](https://developers.cloudflare.com/warp-client/get-started/linux/)
@@ -11,14 +11,14 @@ Program From Internet:
 - [UNetbootin](http://unetbootin.github.io/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-Program From Software Package:
+**Program From Software Package:**
 - Chromium Browser (apt package `chromium-browser`)
 - Oracle VM VirtualBox (apt package `virtualbox`)
 
-Font From Internet:
+**Font From Internet:**
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
-All Used Resource
-- `Empty`
+**Cursor Form Internet**
+- `none`
 
 That's it.
