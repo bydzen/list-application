@@ -29,6 +29,7 @@ Program From Internet:
 - Genymotion (https://www.genymotion.com/download/)
 - Git (https://git-scm.com/)
 - Google Chrome (https://www.google.com/chrome/)
+- Google Cloud SDK (https://cloud.google.com/sdk/)
 - Google Drive for Desktop (https://www.google.com/drive/download/)
 - HWMonitor (https://www.cpuid.com/softwares/hwmonitor.html)
 - Hyper.js (https://hyper.is/)
