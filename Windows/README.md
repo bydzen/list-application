@@ -4,8 +4,8 @@ Windows Official Software and Program Resource History
 **Program From Internet:**
 - [4K Tokkit](https://www.4kdownload.com/products/tokkit/17)
 - [7-Zip](https://www.7-zip.org/)
-- [Adobe Acrobat Reader DC](https://get.adobe.com/reader/)
 - [ADB AppCotrol](https://adbappcontrol.com/)
+- [Adobe Acrobat Reader DC](https://get.adobe.com/reader/)
 - [Android Studio](https://developer.android.com/studio/)
 - [Apache NetBeans](https://netbeans.apache.org/)
 - [Arduino IDE](https://www.arduino.cc/en/software/)
@@ -16,6 +16,7 @@ Windows Official Software and Program Resource History
 - [BulkFileChanger](https://www.nirsoft.net/utils/bulk_file_changer.html)
 - [Cloudflare WARP](https://1.1.1.1/)
 - [Composer](https://getcomposer.org/)
+- [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
 - [CrystalDiskInfo](https://crystalmark.info/en/)
 - [CSViewer](https://csviewer.com/)
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
