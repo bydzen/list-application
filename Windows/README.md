@@ -14,6 +14,7 @@ Windows Official Software and Program Resource History
 - [balenaEtcher](https://www.balena.io/etcher/)
 - [BlueStacks](https://www.bluestacks.com/)
 - [BulkFileChanger](https://www.nirsoft.net/utils/bulk_file_changer.html)
+- [ClickPaste](https://github.com/Collective-Software/ClickPaste)
 - [Cloudflare WARP](https://1.1.1.1/)
 - [Composer](https://getcomposer.org/)
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
