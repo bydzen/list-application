@@ -43,6 +43,7 @@ Program From Internet:
 - Java Setup 8 (https://www.java.com/download/ie_manual.jsp)
 - KDE Connect (https://kdeconnect.kde.org/)
 - Kdenlive (https://kdenlive.org/)
+- KDevelop (https://www.kdevelop.org/)
 - Line (https://line.me/)
 - Mechvibes (https://mechvibes.com/)
 - Mendeley Reference Manager (https://www.mendeley.com/download-reference-manager/windows)
