@@ -70,6 +70,7 @@ Program From Internet:
 - Shotcut (https://shotcut.org/)
 - Steam (https://store.steampowered.com/)
 - Telegram (https://telegram.org/)
+- Tor Browser (https://www.torproject.org/)
 - Transmission BitTorrent (https://transmissionbt.com/)
 - Vim (https://www.vim.org/download.php)
 - Visual Studio Code (https://code.visualstudio.com/)
