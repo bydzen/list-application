@@ -69,6 +69,7 @@ Windows Official Software and Program Resource History
 - [Recuva](https://www.ccleaner.com/recuva)
 - [Shotcut](https://shotcut.org/)
 - [Steam](https://store.steampowered.com/)
+- [SQLite](https://www.sqlite.org/index.html)
 - [Telegram](https://telegram.org/)
 - [Tor Browser](https://www.torproject.org/)
 - [Transmission BitTorrent](https://transmissionbt.com/)
