@@ -12,7 +12,14 @@ Linux Official Software and Program Resource History
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 **Program From Software Package:**
+- Apache HTTP Server (apt package `apache2`)
+- BypTop (apt package `bpytop`)
 - Chromium Browser (apt package `chromium-browser`)
+- htop (apt package `htop`)
+- ifconfig (apt package `net-tools`)
+- MariaDB (apt package `mariadb-server`)
+- MySQL Server (apt package `mysql-server`)
+- NGINX (apt package `nginx`)
 - Oracle VM VirtualBox (apt package `virtualbox`)
 
 **Font From Internet:**
