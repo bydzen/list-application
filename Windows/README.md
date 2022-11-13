@@ -106,6 +106,7 @@ Windows Official Software and Program Resource History
 - [Montserrat](https://fonts.google.com/specimen/Montserrat/)
 - [Noto Sans Mono](https://fonts.google.com/noto/specimen/Noto+Sans+Mono/)
 - [Open Sans](https://fonts.google.com/specimen/Open+Sans/)
+- [Poppins](https://fonts.google.com/specimen/Poppins)
 - [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
 
 **Cursor Form Internet:**
