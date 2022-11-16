@@ -112,6 +112,7 @@ Font From Internet:
 
 Cursor Form Internet:
 - Bibata Cursor (https://github.com/ful1e5/Bibata_Cursor)
+- DMZ Cursor (https://www.deviantart.com/nighted/art/DMZ-Cursors-58429447)
 - Numix Cursors (https://www.deviantart.com/alexgal23/art/Numix-Cursors-631491782/)
 
 That's it.
