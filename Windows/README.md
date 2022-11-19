@@ -113,6 +113,7 @@ Windows Official Software and Program Resource History
 **Cursor Form Internet:**
 - [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor)
 - [DMZ Cursor](https://www.deviantart.com/nighted/art/DMZ-Cursors-58429447)
+- [Google Cursor](https://github.com/ful1e5/Google_Cursor)
 - [Numix Cursors](https://www.deviantart.com/alexgal23/art/Numix-Cursors-631491782/)
 
 That's it.
