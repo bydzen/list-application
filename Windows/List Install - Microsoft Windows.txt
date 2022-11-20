@@ -25,6 +25,7 @@ Program From Internet:
 - DB Browser for SQLite (https://sqlitebrowser.org/dl/)
 - Discord (https://discord.com/)
 - DiskInternals Linux Reader (https://www.diskinternals.com/linux-reader/)
+- Docker Desktop (https://docs.docker.com/desktop/install/windows-install/)
 - EaseUS MobiMover (https://www.easeus.com/phone-transfer/mobimover-free.html)
 - EasyBCD (https://neosmart.net/EasyBCD/)
 - eDEX-UI (https://github.com/GitSquared/edex-ui)
