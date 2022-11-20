@@ -85,6 +85,7 @@ Windows Official Software and Program Resource History
 - [VoiceMeeter](https://vb-audio.com/Voicemeeter/)
 - [VokoScreenNG](https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html)
 - [WhatsApp](https://www.whatsapp.com/)
+- [WhoIsConnectedSniffer](http://www.nirsoft.net/utils/who_is_connected_sniffer.html)
 - [WinMerge](https://winmerge.org/)
 - [WinRAR](https://www.win-rar.com/)
 - [WinSCP](https://winscp.net/)
