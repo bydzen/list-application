@@ -89,6 +89,7 @@ Windows Official Software and Program Resource History
 - [WinMerge](https://winmerge.org/)
 - [WinRAR](https://www.win-rar.com/)
 - [WinSCP](https://winscp.net/)
+- [Wireshark](https://www.wireshark.org/)
 - [XAMPP](https://www.apachefriends.org/)
 - [Zoom](https://zoom.us/)
 
