@@ -57,6 +57,7 @@ Windows Official Software and Program Resource History
 - [Nmap](https://nmap.org/download)
 - [Node.js](https://nodejs.org/)
 - [Notepad++](https://notepad-plus-plus.org/downloads/)
+- [Npcap](https://npcap.com/)
 - [OBS Studio](https://obsproject.com/)
 - [OpenShot Video Editor](https://www.openshot.org/)
 - [Oracle VM VirtualBox](https://www.virtualbox.org/)
