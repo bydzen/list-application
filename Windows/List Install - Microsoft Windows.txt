@@ -48,6 +48,7 @@ Program From Internet:
 - Line (https://line.me/)
 - Mechvibes (https://mechvibes.com/)
 - Mendeley Reference Manager (https://www.mendeley.com/download-reference-manager/windows)
+- Microsoft Network Monitor (https://www.microsoft.com/en-us/download/details.aspx?id=4865)
 - Microsoft Visual C++ 2015-2022 Redistributable (https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist)
 - Min Browser (https://minbrowser.org/)
 - Multipass (https://multipass.run/)
