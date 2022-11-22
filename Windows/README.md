@@ -32,6 +32,7 @@ Windows Official Software and Program Resource History
 - [EasyBCD](https://neosmart.net/EasyBCD/)
 - [eDEX-UI](https://github.com/GitSquared/edex-ui)
 - [FileZilla](https://filezilla-project.org/)
+- [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/)
 - [FireShot](https://getfireshot.com/)
 - [Genymotion](https://www.genymotion.com/download/)
 - [Git](https://git-scm.com/)
