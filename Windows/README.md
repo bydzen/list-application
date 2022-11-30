@@ -6,6 +6,7 @@ Windows Official Software and Program Resource History
 - [7-Zip](https://www.7-zip.org/)
 - [ADB AppCotrol](https://adbappcontrol.com/)
 - [Adobe Acrobat Reader DC](https://get.adobe.com/reader/)
+- [AirDroid](https://www.airdroid.com/personal/)
 - [Android Studio](https://developer.android.com/studio/)
 - [Apache NetBeans](https://netbeans.apache.org/)
 - [Arduino IDE](https://www.arduino.cc/en/software/)
