@@ -80,6 +80,7 @@ Windows Official Software and Program Resource History
 - [Telegram](https://telegram.org/)
 - [Tor Browser](https://www.torproject.org/)
 - [Transmission BitTorrent](https://transmissionbt.com/)
+- [Ventoy](https://www.ventoy.net/en/index.html)
 - [VideoLAN VLC](https://www.videolan.org/vlc/)
 - [Vim](https://www.vim.org/download.php)
 - [Visual Studio Code](https://code.visualstudio.com/)
