@@ -78,6 +78,7 @@ Program From Internet:
 - SQLite (https://www.sqlite.org/index.html)
 - Steam (https://store.steampowered.com/)
 - Telegram (https://telegram.org/)
+- Thunderbird (https://www.thunderbird.net/)
 - Tor Browser (https://www.torproject.org/)
 - Transmission BitTorrent (https://transmissionbt.com/)
 - Ventoy (https://www.ventoy.net/en/index.html)
