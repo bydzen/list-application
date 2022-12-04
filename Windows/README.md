@@ -49,6 +49,7 @@ Windows Official Software and Program Resource History
 - [KDE Connect](https://kdeconnect.kde.org/)
 - [Kdenlive](https://kdenlive.org/)
 - [KDevelop](https://www.kdevelop.org/)
+- [Kopia](https://kopia.io/)
 - [Line](https://line.me/)
 - [Mechvibes](https://mechvibes.com/)
 - [Mendeley Reference Manager](https://www.mendeley.com/download-reference-manager/windows)
