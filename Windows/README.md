@@ -35,6 +35,7 @@ Windows Official Software and Program Resource History
 - [FileZilla](https://filezilla-project.org/)
 - [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/)
 - [FireShot](https://getfireshot.com/)
+- [Foxit Reader](https://www.foxit.com/)
 - [Genymotion](https://www.genymotion.com/download/)
 - [Git](https://git-scm.com/)
 - [Google Chrome](https://www.google.com/chrome/)
