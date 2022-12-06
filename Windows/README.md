@@ -66,6 +66,7 @@ Windows Official Software and Program Resource History
 - [Notepad++](https://notepad-plus-plus.org/downloads/)
 - [Npcap](https://npcap.com/)
 - [OBS Studio](https://obsproject.com/)
+- [Odin](https://odindownload.com/)
 - [OpenShot Video Editor](https://www.openshot.org/)
 - [Oracle VM VirtualBox](https://www.virtualbox.org/)
 - [PostgreSQL](https://www.postgresql.org/)
