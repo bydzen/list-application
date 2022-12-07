@@ -80,6 +80,7 @@ Windows Official Software and Program Resource History
 - [Shotcut](https://shotcut.org/)
 - [SQLite](https://www.sqlite.org/index.html)
 - [Steam](https://store.steampowered.com/)
+- [Teams](https://www.microsoft.com/en-ww/microsoft-teams/download-app)
 - [Telegram](https://telegram.org/)
 - [Thunderbird](https://www.thunderbird.net/)
 - [Tor Browser](https://www.torproject.org/)
