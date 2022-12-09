@@ -60,6 +60,7 @@ Windows Official Software and Program Resource History
 - [Multipass](https://multipass.run/)
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
 - [Nessus](https://www.tenable.com/downloads/nessus)
+- [NetSpeed Monitor](https://netspeedmonitor.net/)
 - [Nicepage](https://nicepage.com/)
 - [Nmap](https://nmap.org/download)
 - [Node.js](https://nodejs.org/)
