@@ -33,6 +33,7 @@ Program From Internet:
 - EasyBCD (https://neosmart.net/EasyBCD/)
 - eDEX-UI (https://github.com/GitSquared/edex-ui)
 - FileZilla (https://filezilla-project.org/)
+- Firebase CLI Binary (https://firebase.google.com/docs/cli)
 - Firefox Browser (https://www.mozilla.org/en-US/firefox/new/)
 - FireShot (https://getfireshot.com/)
 - Foxit Reader (https://www.foxit.com/)
