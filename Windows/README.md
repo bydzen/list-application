@@ -10,6 +10,7 @@ Windows Official Software and Program Resource History
 - [Android Studio](https://developer.android.com/studio/)
 - [Apache NetBeans](https://netbeans.apache.org/)
 - [Arduino IDE](https://www.arduino.cc/en/software/)
+- [Attribute Changer](https://www.petges.lu/)
 - [Authy](https://authy.com/)
 - [Auto Mouse](http://www.automouse.info/)
 - [Balabolka](http://www.cross-plus-a.com/balabolka.htm)
