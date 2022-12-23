@@ -28,6 +28,7 @@ Windows Official Software and Program Resource History
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 - [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
 - [Discord](https://discord.com/)
+- [Disk Wipe](https://www.diskwipe.org/)
 - [DiskInternals Linux Reader](https://www.diskinternals.com/linux-reader/)
 - [Docker Desktop](https://docs.docker.com/desktop/install/windows-install/)
 - [EaseUS MobiMover](https://www.easeus.com/phone-transfer/mobimover-free.html)
