@@ -54,6 +54,7 @@ Windows Official Software and Program Resource History
 - [Kdenlive](https://kdenlive.org/)
 - [KDevelop](https://www.kdevelop.org/)
 - [Kopia](https://kopia.io/)
+- [LibreOffice](https://www.libreoffice.org/)
 - [Line](https://line.me/)
 - [Mechvibes](https://mechvibes.com/)
 - [Mendeley Reference Manager](https://www.mendeley.com/download-reference-manager/windows)
