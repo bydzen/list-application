@@ -27,6 +27,7 @@ Windows Official Software and Program Resource History
 - [CSViewer](https://csviewer.com/)
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 - [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
+- [DBeaver Community](https://dbeaver.io/)
 - [Discord](https://discord.com/)
 - [Disk Wipe](https://www.diskwipe.org/)
 - [DiskInternals Linux Reader](https://www.diskinternals.com/linux-reader/)
