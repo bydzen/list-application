@@ -17,6 +17,7 @@ Windows Official Software and Program Resource History
 - [balenaEtcher](https://www.balena.io/etcher/)
 - [BlueStacks](https://www.bluestacks.com/)
 - [BulkFileChanger](https://www.nirsoft.net/utils/bulk_file_changer.html)
+- [Burp Suite](https://portswigger.net/)
 - [Chocolatey](https://chocolatey.org/)
 - [Chromium](https://www.chromium.org/)
 - [ClickPaste](https://github.com/Collective-Software/ClickPaste)
