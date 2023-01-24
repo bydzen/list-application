@@ -8,6 +8,7 @@ Linux Official Software and Program Resource History
 - [Google Chrome](https://www.google.com/chrome/)
 - [GNOME Partition Editor](https://gparted.org/)
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
+- [Oracle VM VirtualBox](https://www.virtualbox.org/)
 - [UNetbootin](http://unetbootin.github.io/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
