@@ -44,6 +44,7 @@ Program From Internet:
 - Google Chrome (https://www.google.com/chrome/)
 - Google Cloud SDK (https://cloud.google.com/sdk/)
 - Google Drive for Desktop (https://www.google.com/drive/download/)
+- Host File Editor (https://github.com/scottlerch/HostsFileEditor)
 - HWMonitor (https://www.cpuid.com/softwares/hwmonitor.html)
 - Hyper.js (https://hyper.is/)
 - ImageMagick (https://imagemagick.org/script/download.php)
