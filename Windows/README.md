@@ -6,6 +6,7 @@
 
 -   [4K Tokkit](https://www.4kdownload.com/products/tokkit/17)
 -   [7-Zip](https://www.7-zip.org/)
+-   [ADATA SSD Toolbox](https://www.adata.com/en/support/downloads/)
 -   [ADB AppCotrol](https://adbappcontrol.com/)
 -   [Adobe Acrobat Reader DC](https://get.adobe.com/reader/)
 -   [AirDroid](https://www.airdroid.com/personal/)
@@ -27,6 +28,7 @@
 -   [Composer](https://getcomposer.org/)
 -   [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
 -   [CrystalDiskInfo](https://crystalmark.info/en/)
+-   [CrystalDiskMark](https://crystalmark.info/en/)
 -   [CSViewer](https://csviewer.com/)
 -   [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 -   [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
